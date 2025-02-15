@@ -7,6 +7,13 @@
 
 <!-- /code_chunk_output -->
 
+This repository contains the code for the different neural network architectures implemented in PyTorch. Focus on the Module parts, each jupyter notebook is self-contained.
+
+> [!NOTE]
+> The code in this repository not only provides the implementation of the neural network architectures. But not provided the training and validation code. You can use the code to build your own training and validation code.
+
+---
+
 # Transformer
 
 - Code: [Jupyter Notebook](https://github.com/git-ai-zyy/Pytorch-DeepLearning/blob/main/Transformer.ipynb)
