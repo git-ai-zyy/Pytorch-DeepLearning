@@ -3,6 +3,7 @@
 <!-- code_chunk_output -->
 
 - [Transformer](#transformer)
+- [Vision Transformer](#vision-transformer)
 
 <!-- /code_chunk_output -->
 
@@ -18,3 +19,16 @@
   - [Attention is All You Need](https://arxiv.org/abs/1706.03762)
   - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
   - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
+
+---
+
+# Vision Transformer
+
+- Code: [Jupyter Notebook](https://github.com/git-ai-zyy/Pytorch-DeepLearning/blob/main/VisionTransformer.ipynb)
+- Blog: [Vision Transformer](https://yuyangs-project.super.site/another-pagess)
+- Recommend: ⭐️⭐️⭐️⭐️⭐️ (Highly Recommend)
+- Description:
+  - Vision Transformer (ViT) is a transformer-based model for image recognition.
+  - It applies the transformer architecture to image classification by treating images as sequences of patches.
+- Reference:
+  - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
