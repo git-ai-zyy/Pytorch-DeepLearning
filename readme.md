@@ -4,6 +4,7 @@
 
 - [Transformer](#transformer)
 - [Vision Transformer](#vision-transformer)
+- [Switch Transformer](#switch-transformer)
 
 <!-- /code_chunk_output -->
 
@@ -39,3 +40,14 @@ This repository contains the code for the different neural network architectures
   - It applies the transformer architecture to image classification by treating images as sequences of patches.
 - Reference:
   - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+
+# Switch Transformer
+
+- Code: [Jupyter Notebook](https://github.com/git-ai-zyy/Pytorch-DeepLearning/blob/main/SwitchTransformer.ipynb)
+- Recommend: ⭐️⭐️⭐️
+- Description:
+  - Switch Transformer is a model architecture that is based on the transformer architecture.
+  - It introduces a new mechanism called the switch mechanism to dynamically route information between local and global attention.
+  - It is the base of the DeepSeek model
+- Reference:
+  - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)
